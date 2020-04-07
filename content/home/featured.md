@@ -66,3 +66,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+Compare with the baseline
+Multi-subdomain and multimodality
+Long style consistent translated video
+Translation on other datasets
+Ablation study: when no subdomain label
