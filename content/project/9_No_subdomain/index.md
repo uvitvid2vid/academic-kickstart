@@ -2,7 +2,7 @@
 title: 9_No_subdomain
 summary: Ablation study -- when no subdomain label
 tags:
-- Ablation study: when no subdomain label
+- Ablation -- study when no subdomain label
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

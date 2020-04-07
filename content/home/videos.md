@@ -43,7 +43,7 @@ title = "Videos"
     
   [[content.filter_button]]
     name = "Ablation study"
-    tag = "Ablation study: when no subdomain label"
+    tag = "Ablation study -- when no subdomain label"
     
 
 [design]
