@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Videos"
-subtitle = "Compare with the baseline, Multi-subdomain and multimodality, Long style consistent translated video, Translation on other datasets, Ablation study: when no subdomain label"
+#subtitle = "Compare with the baseline, Multi-subdomain and multimodality, Long style consistent translated video, Translation on other datasets, Ablation study: when no subdomain label"
 
 [content]
   # Page type to display. E.g. project.
@@ -26,23 +26,23 @@ subtitle = "Compare with the baseline, Multi-subdomain and multimodality, Long s
     tag = "*"
       
   [[content.filter_button]]
-    name = "Compare with the baseline"
+    name = "UVIT vs baseline"
     tag = "Compare with the baseline"
   
   [[content.filter_button]]
-    name = "Multi-subdomain and multimodality"
+    name = "Multimodality"
     tag = "Multi-subdomain and multimodality"
   
   [[content.filter_button]]
-    name = "Long style consistent translated video"
+    name = "Long video"
     tag = "Long style consistent translated video"
     
   [[content.filter_button]]
-    name = "Translation on other datasets"
+    name = "Other datasets"
     tag = "Translation on other datasets"
     
   [[content.filter_button]]
-    name = "Ablation study: when no subdomain label"
+    name = "Ablation study"
     tag = "Ablation study: when no subdomain label"
     
 
