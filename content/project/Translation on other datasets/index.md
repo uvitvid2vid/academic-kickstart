@@ -1,5 +1,5 @@
 ---
-title: Video example
+title: Translation on other datasets
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning
