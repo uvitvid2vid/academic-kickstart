@@ -1,51 +1,58 @@
-+++
-# Accomplishments widget.
-widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "portfolio"  # Use the Portfolio widget
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+weight = 40  # Order that this section will appear in.
 
-title = "Accomplish&shy;ments"
-subtitle = ""
 
-# Date format
-#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+# ... Put Your Section Options Here (title etc.) ...
 
-# Accomplishments.
-#   Add/remove as many `[[item]]` blocks below as you like.
-#   `title`, `organization` and `date_start` are the required parameters.
-#   Leave other parameters empty if not required.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
-
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+[content]
+  # Page type to display. E.g. project.
+  page_type = "project"
   
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  # Filter toolbar (optional).
+  # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
+  # To show all items, set `tag` to "*".
+  # To filter by a specific tag, set `tag` to an existing tag name.
+  # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
+  
+  # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
+  filter_default = 0
+  
+  [[content.filter_button]]
+    name = "All"
+    tag = "*"
+      
+  [[content.filter_button]]
+    name = "Compare with the baseline"
+    tag = "Compare with the baseline"
+  
+  [[content.filter_button]]
+    name = "Multi-subdomain and multimodality"
+    tag = "Multi-subdomain and multimodality"
+  
+  [[content.filter_button]]
+    name = "Long style consistent translated video"
+    tag = "Long style consistent translated video"
+    
+  [[content.filter_button]]
+    name = "Translation on other datasets"
+    tag = "Translation on other datasets"
+    
+  [[content.filter_button]]
+    name = "Ablation study: when no subdomain label"
+    tag = "Ablation study: when no subdomain label"
+    
+    
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "2"
 
-+++
+  # Toggle between the various page layout types.
+  #   1 = List
+  #   2 = Compact  
+  #   3 = Card
+  #   5 = Showcase
+  view = 3
+
+  # For Showcase view, flip alternate rows?
+  flip_alt_rows = false
