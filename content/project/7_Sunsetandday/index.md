@@ -1,6 +1,6 @@
 ---
 title: 7_Sunsetandday
-summary: Translation on other datasets: Video of Viper Sunset-and-Day translation.
+summary: Translation on other datasets -- Video of Viper Sunset-and-Day translation.
 tags:
 - Translation on other datasets
 date: "2016-04-27T00:00:00Z"

@@ -1,6 +1,6 @@
 ---
 title: 2_HRcompare
-summary: Compare with the baseline: A consistent video should be 1) style inconsistent 2) content consistent. 
+summary: Compare with the baseline -- A consistent video should be 1) style inconsistent 2) content consistent. 
 tags:
 - Compare with the baseline
 date: "2016-04-27T00:00:00Z"

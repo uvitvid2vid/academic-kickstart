@@ -1,6 +1,6 @@
 ---
 title: 6_Rainandsnow
-summary: Translation on other datasets: Video of Viper Rain-and-Snow translation.
+summary: Translation on other datasets -- Video of Viper Rain-and-Snow translation.
 tags:
 - Translation on other datasets
 date: "2016-04-27T00:00:00Z"

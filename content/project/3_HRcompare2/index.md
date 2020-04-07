@@ -1,6 +1,6 @@
 ---
 title: 3_HRcompare2
-summary: Compare with the baseline: Video of the comparison with RecycleGAN. 
+summary: Compare with the baseline -- Video of the comparison with RecycleGAN. 
 tags:
 - Compare with the baseline
 date: "2016-04-27T00:00:00Z"

@@ -1,6 +1,6 @@
 ---
 title: 1_LRCompare
-summary: Compare with the baseline: Video of the label-to-image qualitative comparison. 
+summary: Compare with the baseline -- Video of the label-to-image qualitative comparison. 
 tags:
 - Compare with the baseline
 date: "2016-04-27T00:00:00Z"

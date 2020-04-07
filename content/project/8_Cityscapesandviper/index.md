@@ -1,6 +1,6 @@
 ---
 title: 8_Cityscapesandviper
-summary: Translation on other datasets: Video of Cityscapes-and-Viper translation
+summary: Translation on other datasets -- Video of Cityscapes-and-Viper translation
 tags:
 - Translation on other datasets
 date: "2016-04-27T00:00:00Z"
