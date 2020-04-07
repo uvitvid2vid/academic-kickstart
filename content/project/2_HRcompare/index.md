@@ -1,5 +1,5 @@
 ---
-title: 1_LRCompare
+title: 2_HRcompare
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning
