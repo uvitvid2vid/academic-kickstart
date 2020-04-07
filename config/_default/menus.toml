@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Videos"
-  url = "#slider"
+  url = "#videos"
   weight = 20
 
 #[[main]]
