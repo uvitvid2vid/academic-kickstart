@@ -1,3 +1,4 @@
++++
 widget = "portfolio"  # Use the Portfolio widget
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
@@ -57,3 +58,4 @@ weight = 40  # Order that this section will appear in.
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
++++
