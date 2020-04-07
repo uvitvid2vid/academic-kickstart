@@ -35,6 +35,6 @@ Existing unsupervised video-to-video translation methods fail to produce transla
 * [Technologies](#technologies)
 * [Setup](#setup)
 
-![Model View Controller](images/figures/mvc_schematic.pdf)
+![Model View Controller](UVIT_HR_multimodal.pdf)
 ## General info
 This project is simple Lorem ipsum dolor generator.
