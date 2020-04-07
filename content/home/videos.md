@@ -6,6 +6,7 @@ weight = 40  # Order that this section will appear in.
 
 
 # ... Put Your Section Options Here (title etc.) ...
+Videos
 
 [content]
   # Page type to display. E.g. project.
