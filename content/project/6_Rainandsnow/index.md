@@ -1,8 +1,8 @@
 ---
 title: 6_Rainandsnow
-summary: An example of using the in-built project page.
+summary: Translation on other datasets: Video of Viper Rain-and-Snow translation.
 tags:
-- Deep Learning
+- Translation on other datasets
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -15,7 +15,7 @@ image:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: "https://youtu.be/Rzt0ZhgL088"
+url_video: "https://youtu.be/9lL9nONLuNE"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -25,16 +25,5 @@ url_video: "https://youtu.be/Rzt0ZhgL088"
 # slides: example
 ---
 
-### Abstract
-
-Existing unsupervised video-to-video translation methods fail to produce translated videos which are frame-wise realistic, semantic information preserving and video-level consistent. In this work, we propose a novel unsupervised video-to-video translation model. Our model decomposes the style and the content, uses the specialized encoder-decoder structure and propagates the inter-frame information through bidirectional recurrent neural network (RNN) units. The style-content decomposition mechanism enables us to achieve long-term style-consistent video translation results as well as provides us with a good interface for modality flexible translation. In addition, by changing the input frames and style codes incorporated in our translation, we propose a video interpolation loss, which captures temporal information within the sequence to train our building blocks in a self-supervised manner. Our model can produce photo-realistic, spatio-temporal consistent translated videos in a multimodal way. Subjective and objective experimental results validate the superiority of our model over existing methods.
-
-
-## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
-
-![Model View Controller](feature.jpg)
-## General info
-This project is simple Lorem ipsum dolor generator.
+### Fig.6. Video of Viper Rain-and-Snow translation.
+First row: real rain inputs; Second row: translated snow videos; Third row: real snow inputs; Fourth row:translated rain videos.
