@@ -1,5 +1,5 @@
 ---
-title: Translation on other datasets
+title: 1_LRCompare
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning
@@ -22,7 +22,7 @@ url_video: "https://youtu.be/Rzt0ZhgL088"
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
 ### Abstract

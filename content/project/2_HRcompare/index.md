@@ -1,5 +1,5 @@
 ---
-title: Long style consistent translated video
+title: 1_LRCompare
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning
