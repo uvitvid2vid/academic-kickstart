@@ -9,7 +9,7 @@ title = "Contact"
 subtitle = ""
 
 # Automatically link email and phone?
-autolink = false
+autolink = true
 
 # Email form provider
 #   0: Disable email form
@@ -22,7 +22,7 @@ email_form = 0
 
 ## 
 
-Kangning Liu
+**Kangning Liu**
 
 Center for Data Science,
 
@@ -31,7 +31,7 @@ New York University, USA
 Email: kl3141@nyu.edu
 
 
-Shuhang Gu, Andres Romero, Radu Timofte
+**Shuhang Gu, Andres Romero, Radu Timofte**
 
 Computer Vision Lab,
 
