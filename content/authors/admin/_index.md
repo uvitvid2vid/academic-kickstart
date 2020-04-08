@@ -36,7 +36,7 @@ organizations:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "kl3141@nyu.edu {shuhang.gu,andres.romero-vergara,radu.timofte}@vision.ee.ethz.ch "
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
