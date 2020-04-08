@@ -26,11 +26,11 @@ title = "Videos"
     tag = "*"
       
   [[content.filter_button]]
-    name = "UVIT vs baseline"
+    name = "Compare with baseline"
     tag = "Compare with the baseline"
   
   [[content.filter_button]]
-    name = "Multimodality"
+    name = "Multi-subdomain and multimodality"
     tag = "Multi-subdomain and multimodality"
   
   [[content.filter_button]]
@@ -38,11 +38,11 @@ title = "Videos"
     tag = "Long style consistent translated video"
     
   [[content.filter_button]]
-    name = "Other datasets"
+    name = "Translation on Other Datasets"
     tag = "Translation on other datasets"
     
   [[content.filter_button]]
-    name = "Ablation study"
+    name = "Ablation Study"
     tag = "Ablation study -- when no subdomain label"
     
 
