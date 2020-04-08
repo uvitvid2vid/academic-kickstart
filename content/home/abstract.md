@@ -39,7 +39,7 @@ Existing unsupervised video-to-video translation methods fail to produce transla
 ### UVIT: Overview 
 
 
-{{< figure library="true" src="Overviewv3.png"  width="800" height="500" title="Given an input video sequence, we first decompose it to the content by a Content Encoder and the style by a Style Encoder. Then the content is processed by special RNN units, namely TrajGRUs in order to get the content used for translation and interpolation in a recurrent manner. Finally, the translation content and the interpolation content are decoded to the translated video and the interpolated video together with the style latent variable. We also show the video adversarial loss, the cycle consistency loss, the video interpolation loss and the style encoder loss" lightbox="true" >}}
+{{< figure library="true" src="Overviewv3.png"  width="500" height="500" title="Given an input video sequence, we first decompose it to the content by a Content Encoder and the style by a Style Encoder. Then the content is processed by special RNN units, namely TrajGRUs in order to get the content used for translation and interpolation in a recurrent manner. Finally, the translation content and the interpolation content are decoded to the translated video and the interpolated video together with the style latent variable. We also show the video adversarial loss, the cycle consistency loss, the video interpolation loss and the style encoder loss" lightbox="true" >}}
 
 
 
